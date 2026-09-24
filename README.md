@@ -90,7 +90,7 @@ This project is open-source and available for educational and personal use.
 
 ## 👤 About
 
-Created by **RakshanaQ** as a demonstration of data cleaning techniques in Power BI.
+Created by **JacklyneA** as a demonstration of data cleaning techniques in Power BI.
 
 ---
 
